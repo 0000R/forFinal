@@ -1,0 +1,92 @@
+
+
+
+
+img {
+
+    width: 90px;
+    
+    height: 90px;
+
+
+
+    
+    
+    }
+    
+    #idCard {
+    
+    border: 5px solid black; 
+    
+    border-radius: 25px;
+    
+    height: 14em;
+    
+    width: 25em;
+
+    margin: auto;
+    
+    background-color: pink;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+    }
+
+
+
+main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+   
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+body {
+    background-color: #0099ff;
+    
+
+}
+
+#insideCard {
+    /* border: 5px solid black; 
+    
+    border-radius: 25px; */
+    
+    height: 10em;
+    
+    width: 21em;
+
+    margin: auto;
+    
+    margin-top: -70px;
+
+}
+
+#onlyFullName {
+    /* border: 5px solid black; 
+    
+    border-radius: 25px; */
+    
+    height: 5em;
+    
+    width: 14em;
+
+    margin: auto;
+    
+    margin-top: -80px;
+
+    margin-right: -5px;
+
+    font-size: 23px;
+    
+    text-align: center;
+
+}
